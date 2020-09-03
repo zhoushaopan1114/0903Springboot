@@ -22,7 +22,7 @@ import java.util.List;
 @Controller
 @RequestMapping("/manageruser")
 public class UserController {
-
+    //是的
     @Autowired
     private UserService userService;
 
